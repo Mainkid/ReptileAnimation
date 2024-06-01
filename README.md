@@ -19,6 +19,7 @@
 
 ### Основные настраиваемые параметры:
 [![image.png](https://i.postimg.cc/mg73s9rg/image.png)](https://postimg.cc/gxkLynRC)
+
 BP_Crocodile: 
 - MaxAngleRotation - Максимальный угол поворота рептилии. Регулирует подвижность позвоночника.
 - PelvisHeight - Высотка походки
